@@ -1,4 +1,4 @@
-# Portable PowerShell HTML Launcher
+# Portable PowerShell Web Launcher
 
 A zero-install, single-file HTML viewer for Windows. Double-click a `.bat` file, browse to any local HTML file or URL, and it renders in a native window — no browser install, no admin rights, no setup.
 
